@@ -13,3 +13,4 @@ prob = [3/8, 2/8, 3/8]
 entropy(prob)
 
 print('coucou adri')
+print('coucou Luc <3')
